@@ -312,7 +312,7 @@ All metrics are human-readable.
 @inproceedings{FinancialBias2026,
   title     = {On detecting bias across Financial Small and Large
 Language Models},
-  author    = {...},
+  author    = {Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis},
   booktitle = {...},
   year      = {2026}
 }
